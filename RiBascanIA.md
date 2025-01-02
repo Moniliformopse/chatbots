@@ -13,7 +13,6 @@ footer: CC BY NC SA Vincent Thizeau 2025 - Créé avec ChatMD, un outil libre et
 useLLM:
     always: true
     url: https://api.cohere.com/v1/chat
-    askAPIkey: true
     informations: "https://github.com/Moniliformopse/chatbots/raw/refs/heads/main/RiBascan_fichier_RAG.md"
     separator: auto
     postprompt: "Réponds en français, en 10 phrases maximum. Utilise le gras, l'italique et les listes en Markdown pour mettre en valeur les éléments importants. Termine sur une affirmation, pas de question."
