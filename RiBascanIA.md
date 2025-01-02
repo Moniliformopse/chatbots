@@ -12,9 +12,8 @@ rechercheContenu: false
 footer: CC BY NC SA Vincent Thizeau 2025 - Créé avec ChatMD, un outil libre et gratuit de Cédric Eyssette
 useLLM:
     url: https://api.cohere.com/v1/chat
-    askAPIkey: false
-    encryptedAPIkey: YeNIwvkbwYdo6xcWyNaO3mBL09fZQLTkZ0X5QTrk
-    informations: "https://raw.githubusercontent.com/Moniliformopse/chatbots/main/RiBascan_fichier_RAG.md"
+    askAPIkey: true
+    informations: "https://github.com/Moniliformopse/chatbots/raw/refs/heads/main/RiBascan_fichier_RAG.md"
     separator: auto
     postprompt: "Réponds en français, en 10 phrases maximum. Utilise le gras, l'italique et les listes en Markdown pour mettre en valeur les éléments importants. Termine sur une affirmation, pas de question."
     model: command-r
