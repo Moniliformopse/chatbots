@@ -11,6 +11,7 @@ gestionGrosMots: true
 rechercheContenu: false
 footer: CC BY NC SA Vincent Thizeau 2025 - Créé avec ChatMD, un outil libre et gratuit de Cédric Eyssette
 useLLM:
+    always: true
     url: https://api.cohere.com/v1/chat
     askAPIkey: true
     informations: "https://github.com/Moniliformopse/chatbots/raw/refs/heads/main/RiBascan_fichier_RAG.md"
