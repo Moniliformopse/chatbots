@@ -14,7 +14,7 @@ useLLM:
     url: https://api.cohere.com/v1/chat
     askAPIkey: false
     encryptedAPIkey: KzxnYTwOE2s1MTo3C2cCEzkeHRk/Iz0bIDxhKncTMTEEZwBifS0VMA==
-    informations: "https://github.com/Moniliformopse/chatbots/raw/refs/heads/main/RiBascan_fichier_RAG.md"
+    informations: "https://raw.githubusercontent.com/Moniliformopse/chatbots/main/RiBascan_fichier_RAG.md"
     separator: auto
     postprompt: "Réponds en français, en 10 phrases maximum. Utilise le gras, l'italique et les listes en Markdown pour mettre en valeur les éléments importants. Termine sur une affirmation, pas de question."
     model: command-r
