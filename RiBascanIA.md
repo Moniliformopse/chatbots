@@ -151,7 +151,7 @@ Si aucune des réponses proposées ne vous convient alors vous pouvez rédiger v
 1. [Messageries](Messageries)
 2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
 3. [Retour au message initial]()
-   
+ 
 ##R1Q1
 
 **Qu'est-ce qu'un règlement intérieur ?**  
