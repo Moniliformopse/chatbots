@@ -1,5 +1,5 @@
 ---
-style: h1{font-family:Papyrus, sans-serif;color:#000091;text-decoration:bold}li{font-family:Verdana, "DejaVu Sans", sans-serif}p{font-family:Verdana, "DejaVu Sans", sans-serif}footer{font-family:Papyrus, sans-serif}aside{font-size:0.5em}audio{visibility:hidden}main{background:linear-gradient(90deg, rgba(239,232,236,1) 0%, rgba(208,187,198,1) 100%)}.bot-message ul.messageOptions li>a:hover{background-color:#49651e;border-color:#43481D}.user-message{background-color:#651e49}
+style: h1{font-family:Papyrus, sans-serif;color:#000091;text-decoration:bold}li{font-family:Verdana, "DejaVu Sans", sans-serif}p{font-family:Verdana, "DejaVu Sans", sans-serif}footer{font-family:Papyrus, sans-serif}aside{font-size:0.5em}audio{visibility:hidden}main{background:linear-gradient(90deg, rgba(220,220,252,1) 0%, rgba(203,203,250,1) 100%)}.bot-message ul.messageOptions li>a:hover{background-color:#ff7a55;border-color:#ff6218}.user-message{background-color:#000091}
 contenuDynamique: true
 messageParDéfaut: [Hmmm… je crois que je n’ai pas tout saisi. Faites une autre proposition.]
 avatar: https://notretribunet.fr/chatbots/images/biogeia/avatar_BioGeIA_n&b.png
