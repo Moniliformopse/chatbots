@@ -40,22 +40,24 @@ Vous pouvez rédiger votre question, ou bien vous laisser guider en faisant le c
 
 1. [Questions générales](QuestionsGénérales) 
 2. [Horaires](Horaires)
-3. [Discipline](Discipline)
-4. [Règles vestimentaires](RèglesVestimentaires)
-5. [Utilisation des téléphones et appareils électroniques](UtilisationDesTéléphonesEtAppareilsÉlectroniques)
-6. [Vie scolaire](VieScolaire)
-7. [Cantine et restauration](CantineEtRestauration)
-8. [Santé et sécurité](SantéEtSécurité)
-9. [Activités extrascolaires et sorties](ActivitésExtrascolairesEtSorties)
-10. [Espaces communs](EspacesCommuns)
-11. [Relations avec les enseignants et le personnel](RelationsAvecLesEnseignantsEtLePersonnel)
-12. [Sanctions disciplinaires](SanctionsDisciplinaires)
-13. [Respect et valeurs](RespectEtValeurs)
-14. [Projets pédagogiques](ProjetsPédagogiques)
-15. [Divers](Divers)
-16. [Sécurité et environnement](SécuritéEtEnvironnement)
-17. [En cas de problème](EnCasDeProblème)
-18. [Questions administratives](QuestionsAdministratives)
+3. [Présence et absences](PrésenceEtAbsences)
+4. [Discipline](Discipline)
+5. [Matériel et fournitures](MatérielEtFournitures)
+6. [Règles vestimentaires](RèglesVestimentaires)
+7. [Utilisation des téléphones et appareils électroniques](UtilisationDesTéléphonesEtAppareilsÉlectroniques)
+8. [Vie scolaire](VieScolaire)
+9. [Cantine et restauration](CantineEtRestauration)
+10. [Santé et sécurité](SantéEtSécurité)
+11. [Activités extrascolaires et sorties](ActivitésExtrascolairesEtSorties)
+12. [Espaces communs](EspacesCommuns)
+13. [Relations avec les enseignants et le personnel](RelationsAvecLesEnseignantsEtLePersonnel)
+14. [Sanctions disciplinaires](SanctionsDisciplinaires)
+15. [Respect et valeurs](RespectEtValeurs)
+16. [Projets pédagogiques](ProjetsPédagogiques)
+17. [Divers](Divers)
+18. [Sécurité et environnement](SécuritéEtEnvironnement)
+19. [En cas de problème](EnCasDeProblème)
+20. [Questions administratives](QuestionsAdministratives)
 
 ## NeRienFaire
 - Rien
@@ -71,9 +73,9 @@ N'hésitez pas à revenir.
 
 :leaves: :cloud: :snail:
 
-1. [Redémarrer]()
-
 |→ [Lire le règlement intérieur](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/DevBascan/AffichageLegal/main&homepage=ri.md&sidebar=true&maxLevel=6&link-color=0374b5&name=R%C3%A8glement%20int%C3%A9rieur%3Cbr%3ELyc%C3%A9e%20Louis-Bascan%3Cbr%3ERambouillet%20(78)&search=true&page-title=Affichage%20l%C3%A9gal&link-color-dark-mode=0374b5#/)
+
+1. [Redémarrer]()
 
 ## LouisÉcureuil
 - Louis l'écureuil
@@ -151,7 +153,7 @@ Pour toute question ou remarque concernant le règlement intérieur, il est reco
 1. [Messageries](Messageries)
 2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
 3. [Retour au message initial]()
- 
+
 ## R1Q1
 
 **Qu'est-ce qu'un règlement intérieur ?**  
@@ -285,3 +287,436 @@ Que voulez-vous consulter ?
 2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
 3. [Retour au message initial]()
 
+## Horaires
+- Horaires
+- horaires
+- Heures
+- heures
+- Heure
+- heure
+
+!Audio:https://notretribunet.fr/chatbots/sons/256543__debsound__r2d2-astro-droid.wav
+
+En ce qui concerne les **Horaires**, je peux répondre aux questions suivantes :
+
+1. [Quels sont les horaires d'ouverture du lycée ?](R6Q6)
+2. [À quelle heure commence la première heure de cours ?](R7Q7)
+3. [Quels sont les horaires de la pause déjeuner ?](R8Q8)
+4. [Les cours ont-ils lieu le samedi ?](R9Q9)
+5. [Que se passe-t-il si j'arrive en retard ?](R10Q10)
+6. [Toutes les réponses aux questions](RéponsesHoraires)
+
+## RéponsesHoraires
+
+**Quels sont les horaires d'ouverture du lycée ?**
+
+Les horaires d'ouverture du lycée sont de 7h45 à 18h30. Toutefois, il est conseillé de vérifier les horaires spécifiques auprès de l'administration ou sur le [site officiel de l'établissement](https://lyc-bascan.fr/).
+
+**À quelle heure commence la première heure de cours ?**
+
+La première heure de cours débute à 8h30, mais cela peut varier en fonction de [l'emploi du temps de chaque élève](https://0782549x.index-education.net/pronote/).
+
+**Quels sont les horaires de la pause déjeuner ?**
+
+La pause déjeuner se situe généralement entre 11h40 et 13h35, selon les emplois du temps. Les horaires précis peuvent être consultés sur [l'emploi du temps individuel de chaque élève](https://0782549x.index-education.net/pronote/).
+
+**Les cours ont-ils lieu le samedi ?**
+
+Le lycée Louis-Bascan est fermé le samedi.
+
+**Que se passe-t-il si j'arrive en retard ?**
+
+En cas de retard, l'élève doit se présenter à la vie scolaire pour le signaler et obtenir un billet d'entrée en classe. Des retards répétés peuvent entraîner des sanctions disciplinaires.
+
+|→ Si aucune des réponses proposées ne vous convient alors vous pouvez rédiger votre propre question en accédant à :
+
+1. [Messageries](Messageries)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Retour au message initial]()
+
+## R6Q6
+
+**Quels sont les horaires d'ouverture du lycée ?**
+
+Les horaires d'ouverture du lycée sont de 7h45 à 18h30. Toutefois, il est conseillé de vérifier les horaires spécifiques auprès de l'administration ou sur le [site officiel de l'établissement](https://lyc-bascan.fr/).
+
+1. [Retour au thème : Horaires](Horaires)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R7Q7
+
+**À quelle heure commence la première heure de cours ?**
+
+La première heure de cours débute à 8h30, mais cela peut varier en fonction de [l'emploi du temps de chaque élève](https://0782549x.index-education.net/pronote/).
+
+1. [Retour au thème : Horaires](Horaires)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R8Q8
+
+**Quels sont les horaires de la pause déjeuner ?**
+
+La pause déjeuner se situe généralement entre 11h40 et 13h35, selon les emplois du temps. Les horaires précis peuvent être consultés sur [l'emploi du temps individuel de chaque élève](https://0782549x.index-education.net/pronote/).
+
+1. [Retour au thème : Horaires](Horaires)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R9Q9
+
+**Les cours ont-ils lieu le samedi ?**
+
+Le lycée Louis-Bascan est fermé le samedi.
+
+1. [Retour au thème : Horaires](Horaires)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R10Q10
+
+**Que se passe-t-il si j'arrive en retard ?**
+
+En cas de retard, l'élève doit se présenter à la vie scolaire pour le signaler et obtenir un billet d'entrée en classe. Des retards répétés peuvent entraîner des sanctions disciplinaires.
+
+1. [Retour au thème : Horaires](Horaires)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## PrésenceEtAbsences
+- Présence
+- présence
+- Absences
+- absences
+- Abesence
+- absence
+
+!Audio:https://notretribunet.fr/chatbots/sons/256543__debsound__r2d2-astro-droid.wav
+
+En ce qui concerne **Présence et absences**, je peux répondre aux questions suivantes :
+
+1. [Comment justifier une absence ?](R11Q11)
+2. [Combien d'absences sont tolérées par trimestre ?](R12Q12)
+3. [Que faire en cas de maladie prolongée ?](R13Q13)
+4. [Peut-on partir plus tôt si un professeur est absent ?](R14Q14)
+5. [Comment fonctionne le contrôle des présences ?](R15Q15)
+6. [Toutes les réponses aux questions](RéponsesPrésenceEtAbsences)
+
+## RéponsesPrésenceEtAbsences
+
+**Comment justifier une absence ?**
+
+Les absences doivent être justifiées par un mot des parents ou un certificat médical, remis à la vie scolaire dès le retour de l'élève.
+
+**Combien d'absences sont tolérées par trimestre ?**
+
+Toute absence doit être justifiée. Un nombre élevé d'absences, même justifiées, peut nuire à la scolarité de l'élève. Il est donc important de limiter les absences et de les justifier systématiquement.
+
+**Que faire en cas de maladie prolongée ?**
+
+En cas de maladie prolongée, il est nécessaire de fournir un certificat médical précisant la durée de l'absence. L'élève ou sa famille doit informer rapidement la vie scolaire pour organiser le suivi pédagogique.
+
+**Peut-on partir plus tôt si un professeur est absent ?**
+
+Si un professeur est absent, les élèves doivent se conformer aux directives de la vie scolaire. Ils ne sont pas autorisés à quitter l'établissement sans autorisation préalable.
+
+**Comment fonctionne le contrôle des présences ?**
+
+Les présences sont contrôlées par les enseignants à chaque cours et par la vie scolaire. Les absences et retards sont enregistrés et suivis régulièrement.
+    
+|→ Si aucune des réponses proposées ne vous convient alors vous pouvez rédiger votre propre question en accédant à :
+
+1. [Messageries](Messageries)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Retour au message initial]()
+
+## R11Q11
+
+**Comment justifier une absence ?**
+
+Les absences doivent être justifiées par un mot des parents ou un certificat médical, remis à la vie scolaire dès le retour de l'élève.
+
+1. [Retour au thème : Présence et absences](PrésenceEtAbsences)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R12Q12
+
+**Combien d'absences sont tolérées par trimestre ?**
+
+Toute absence doit être justifiée. Un nombre élevé d'absences, même justifiées, peut nuire à la scolarité de l'élève. Il est donc important de limiter les absences et de les justifier systématiquement.
+
+1. [Retour au thème : Présence et absences](PrésenceEtAbsences)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R13Q13
+
+**Que faire en cas de maladie prolongée ?**
+
+En cas de maladie prolongée, il est nécessaire de fournir un certificat médical précisant la durée de l'absence. L'élève ou sa famille doit informer rapidement la vie scolaire pour organiser le suivi pédagogique.
+
+1. [Retour au thème : Présence et absences](PrésenceEtAbsences)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R14Q14
+
+**Peut-on partir plus tôt si un professeur est absent ?**
+
+Si un professeur est absent, les élèves doivent se conformer aux directives de la vie scolaire. Ils ne sont pas autorisés à quitter l'établissement sans autorisation préalable.
+
+1. [Retour au thème : Présence et absences](PrésenceEtAbsences)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R15Q15
+
+**Comment fonctionne le contrôle des présences ?**
+
+Les présences sont contrôlées par les enseignants à chaque cours et par la vie scolaire. Les absences et retards sont enregistrés et suivis régulièrement.
+
+1. [Retour au thème : Présence et absences](PrésenceEtAbsences)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## Discipline
+- Discipline
+- discipline
+
+!Audio:https://notretribunet.fr/chatbots/sons/256543__debsound__r2d2-astro-droid.wav
+
+En ce qui concerne la **Discipline**, je peux répondre aux questions suivantes :
+
+1. [Quels sont les comportements sanctionnés ?](R16Q16)
+2. [Que se passe-t-il en cas de triche à un examen ?](R17Q17)
+3. [Quels types de sanctions existent ?](R18Q18)
+4. [Qui décide des sanctions disciplinaires ?](R19Q19)
+5. [Peut-on contester une sanction ?](R20Q20)
+6. [Toutes les réponses aux questions](RéponsesDiscipline)
+
+## RéponsesDiscipline
+
+**Quels sont les comportements sanctionnés ?**
+
+Les comportements perturbateurs, irrespectueux, violents ou contraires aux règles établies sont sanctionnés. Cela inclut la triche, l'insolence, le harcèlement, et toute forme de violence physique ou verbale.
+
+**Que se passe-t-il en cas de triche à un examen ?**
+
+La triche lors d'un examen est considérée comme une faute grave. Elle peut entraîner l'annulation de l'épreuve, une note zéro, et des sanctions disciplinaires supplémentaires.
+
+**Quels types de sanctions existent ?**
+
+Les sanctions peuvent aller de l'avertissement verbal ou écrit à l'exclusion temporaire ou définitive, en passant par des heures de retenue, des travaux d'intérêt général, ou des convocations disciplinaires.
+
+**Qui décide des sanctions disciplinaires ?**
+
+Les sanctions sont décidées par le chef d'établissement ou par le conseil de discipline, en fonction de la gravité de la faute commise.
+
+**Peut-on contester une sanction ?**
+
+Oui, il est possible de contester une sanction en formulant un recours auprès du chef d'établissement ou des instances compétentes, conformément aux procédures établies.
+
+|→ Si aucune des réponses proposées ne vous convient alors vous pouvez rédiger votre propre question en accédant à :
+
+1. [Messageries](Messageries)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Retour au message initial]()
+
+## R16Q16
+
+**Quels sont les comportements sanctionnés ?**
+
+Les comportements perturbateurs, irrespectueux, violents ou contraires aux règles établies sont sanctionnés. Cela inclut la triche, l'insolence, le harcèlement, et toute forme de violence physique ou verbale.
+
+1. [Retour au thème : Discicpline](Discipline)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R17Q17
+
+**Que se passe-t-il en cas de triche à un examen ?**
+
+La triche lors d'un examen est considérée comme une faute grave. Elle peut entraîner l'annulation de l'épreuve, une note zéro, et des sanctions disciplinaires supplémentaires.
+
+1. [Retour au thème : Discicpline](Discipline)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R18Q18
+
+**Quels types de sanctions existent ?**
+
+Les sanctions peuvent aller de l'avertissement verbal ou écrit à l'exclusion temporaire ou définitive, en passant par des heures de retenue, des travaux d'intérêt général, ou des convocations disciplinaires.
+
+1. [Retour au thème : Discicpline](Discipline)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R19Q19
+
+**Qui décide des sanctions disciplinaires ?**
+
+Les sanctions sont décidées par le chef d'établissement ou par le conseil de discipline, en fonction de la gravité de la faute commise.
+
+1. [Retour au thème : Discicpline](Discipline)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R20Q20
+
+**Peut-on contester une sanction ?**
+
+Oui, il est possible de contester une sanction en formulant un recours auprès du chef d'établissement ou des instances compétentes, conformément aux procédures établies.
+
+1. [Retour au thème : Discicpline](Discipline)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## MatérielEtFournitures
+- Matériel
+- matériel
+- Fournitures
+- fournitures
+
+!Audio:https://notretribunet.fr/chatbots/sons/256543__debsound__r2d2-astro-droid.wav
+
+En ce qui concerne **Matériel et fournitures**, je peux répondre aux questions suivantes :
+
+1. [Quels matériels sont obligatoires pour les cours ?](R21Q21)
+2. [Peut-on emprunter du matériel au lycée ?](R22Q22)
+3. [Que se passe-t-il en cas de perte ou de vol de matériel ?](R23Q23)
+4. [Peut-on utiliser un ordinateur personnel en classe ?](R24Q24)
+5. [Quelles sont les règles pour les manuels scolaires ?](R25Q25)
+6. [Le lycée fournit-il les calculatrices ?](R26Q26)
+7. [Peut-on demander des copies ou du papier à l’administration ?](R27Q27)
+8. [Toutes les réponses aux questions](RéponsesMatérielEtFournitures)
+
+## RéponsesMatérielEtFournitures
+
+**Quels matériels sont obligatoires pour les cours ?**
+
+Les fournitures obligatoires sont généralement listées en début d'année scolaire. Elles incluent les manuels, cahiers, stylos, et tout autre matériel spécifique aux disciplines enseignées.
+
+**Peut-on emprunter du matériel au lycée ?**
+
+Le lycée peut prêter certains matériels, notamment via le CDI ou les laboratoires, sous réserve de disponibilité et d’un usage conforme aux règles de l’établissement, avec une obligation de restitution en bon état et dans les délais impartis.
+
+**Que se passe-t-il en cas de perte ou de vol de matériel ?**
+
+Les pertes ou vols doivent être signalés à la vie scolaire. Il est conseillé de marquer le matériel au nom de l’élève pour faciliter la restitution en cas de perte.
+
+**Peut-on utiliser un ordinateur personnel en classe ?**
+
+L’usage d’un ordinateur personnel est autorisé si l’enseignant en donne l’autorisation dans le cadre pédagogique.
+
+**Quelles sont les règles pour les manuels scolaires ?**
+
+Les manuels prêtés par l’établissement doivent être couverts et entretenus. En cas de perte ou de détérioration, l’élève devra les remplacer ou rembourser leur coût.
+
+**Le lycée fournit-il les calculatrices ?**
+
+Non, les calculatrices sont généralement à la charge des familles. Les modèles requis sont spécifiés en début d’année.
+
+**Peut-on demander des copies ou du papier à l’administration ?**
+
+Non, les élèves doivent apporter leur propre matériel. L’administration n’a pas vocation à fournir des fournitures scolaires.
+
+|→ Si aucune des réponses proposées ne vous convient alors vous pouvez rédiger votre propre question en accédant à :
+
+1. [Messageries](Messageries)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Retour au message initial]()
+
+## R21Q21
+
+**Quels matériels sont obligatoires pour les cours ?**
+
+Les fournitures obligatoires sont généralement listées en début d'année scolaire. Elles incluent les manuels, cahiers, stylos, et tout autre matériel spécifique aux disciplines enseignées.
+
+1. [Retour au thème : Matériel et fournitures](MatérielEtFournitures)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R22Q22
+
+**Peut-on emprunter du matériel au lycée ?**
+
+Le lycée peut prêter certains matériels, notamment via le CDI ou les laboratoires, sous réserve de disponibilité et d’un usage conforme aux règles de l’établissement, avec une obligation de restitution en bon état et dans les délais impartis.
+
+1. [Retour au thème : Matériel et fournitures](MatérielEtFournitures)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R23Q23
+
+**Que se passe-t-il en cas de perte ou de vol de matériel ?**
+
+Les pertes ou vols doivent être signalés à la vie scolaire. Il est conseillé de marquer le matériel au nom de l’élève pour faciliter la restitution en cas de perte.
+
+1. [Retour au thème : Matériel et fournitures](MatérielEtFournitures)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R24Q24
+
+**Peut-on utiliser un ordinateur personnel en classe ?**
+
+L’usage d’un ordinateur personnel est autorisé si l’enseignant en donne l’autorisation dans le cadre pédagogique.
+
+1. [Retour au thème : Matériel et fournitures](MatérielEtFournitures)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R25Q25
+
+**Quelles sont les règles pour les manuels scolaires ?**
+
+Les manuels prêtés par l’établissement doivent être couverts et entretenus. En cas de perte ou de détérioration, l’élève devra les remplacer ou rembourser leur coût.
+
+1. [Retour au thème : Matériel et fournitures](MatérielEtFournitures)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R26Q26
+
+**Le lycée fournit-il les calculatrices ?**
+
+Non, les calculatrices sont généralement à la charge des familles. Les modèles requis sont spécifiés en début d’année.
+
+1. [Retour au thème : Matériel et fournitures](MatérielEtFournitures)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
+
+## R27Q27
+
+**Peut-on demander des copies ou du papier à l’administration ?**
+
+Non, les élèves doivent apporter leur propre matériel. L’administration n’a pas vocation à fournir des fournitures scolaires.
+
+1. [Retour au thème : Matériel et fournitures](MatérielEtFournitures)
+2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
+3. [Messageries](Messageries)
+4. [Retour au message initial]()
