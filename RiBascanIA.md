@@ -17,7 +17,7 @@ footer: CC BY NC SA Vincent Thizeau 2025 - Créé avec ChatMD, un outil libre et
 
 Bonjour, je suis **Louis l'écureuil**, votre assistant virtuel conversationnel ! :smiley: :smirk:
 
-![Avatar de BioGéIA : un enseignant de biologie géologie avec une blouse et des lunettes rondes sur fond d'un chatbot assisté par intelligence articficielle](https://notretribunet.fr/chatbots/images/biogeia/BioGéoIA.jpg "Image créée avec Canva IA")
+![Avatar de RiBascanIA : Louis l'écureuil, la mascotte du lycée Louis-Bascan, sur fond d'un chatbot assisté par intelligence articficielle](https://notretribunet.fr/chatbots/images/ribascania/RiBascanIA.jpg "Image créée avec Canva IA")
 
 Je peux vous guider dans la lecture du règlement intérieur du [lycée Louis-Bascan](https://lyc-bascan.fr/), dont l'intégralité du contenu se trouve à l'adresse ci-dessous ⤵
 
@@ -95,9 +95,9 @@ N'hésitez pas à revenir.
 
 !Audio:https://notretribunet.fr/chatbots/sons/256543__debsound__r2d2-astro-droid.wav
 
-![Radcliffe Bomba](https://notretribunet.fr/chatbots/images/professor_radcliffe_bomba_couleur.png)
+![Louis l'écurueil](https://notretribunet.fr/chatbots/images/ribascania/LouisLecureuil_rond.png)
 
-:earth_africa: :volcano: :seedling: :mushroom: :mouse2: :mag: :microscope: - **Radcliffe Bomba**
+:earth_africa: :volcano: :seedling: :mushroom: :mouse2: :mag: :microscope: - **Louis l'écurueil**
 
 Je suis l'assistant Louis l'écureuil un **chatbot entièrement programmé**, qui utilise aussi la reconnaissance de certains mots pour vous permettre de naviguer de manière plus naturelle en tapant une requête.
 
