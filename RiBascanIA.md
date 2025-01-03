@@ -26,6 +26,7 @@ Suivre le lien |→ [Règlement intérieur](https://docsify-this.net/?basePath=h
 Pour continuer à échanger avec moi, vous pouvez juste cliquer sur le bouton ci-dessous.
 
 1. [Je continue](JeContinue)
+2. [Je décide de ne rien faire](NeRienFaire)
 
 ## JeContinue
 - je continue
@@ -55,10 +56,6 @@ Vous pouvez rédiger votre question, ou bien vous laisser guider en faisant le c
 16. [Sécurité et environnement](SécuritéEtEnvironnement)
 17. [En cas de problème](EnCasDeProblème)
 18. [Questions administratives](QuestionsAdministratives)
-
-Tout compte fait, vous décidez de ⤵
-
-1. [Ne rien faire](NeRienFaire)
 
 ## NeRienFaire
 - Rien
