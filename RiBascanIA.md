@@ -73,7 +73,7 @@ N'hésitez pas à revenir.
 
 1. [Redémarrer]()
 
-[Lire le règlement intérieur](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/DevBascan/AffichageLegal/main&homepage=ri.md&sidebar=true&maxLevel=6&link-color=0374b5&name=R%C3%A8glement%20int%C3%A9rieur%3Cbr%3ELyc%C3%A9e%20Louis-Bascan%3Cbr%3ERambouillet%20(78)&search=true&page-title=Affichage%20l%C3%A9gal&link-color-dark-mode=0374b5#/)
+|→ [Lire le règlement intérieur](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/DevBascan/AffichageLegal/main&homepage=ri.md&sidebar=true&maxLevel=6&link-color=0374b5&name=R%C3%A8glement%20int%C3%A9rieur%3Cbr%3ELyc%C3%A9e%20Louis-Bascan%3Cbr%3ERambouillet%20(78)&search=true&page-title=Affichage%20l%C3%A9gal&link-color-dark-mode=0374b5#/)
 
 ## LouisÉcureuil
 - Louis l'écureuil
@@ -146,7 +146,7 @@ La date de la dernière mise à jour est indiquée en en-tête du document. Pour
 
 Pour toute question ou remarque concernant le règlement intérieur, il est recommandé de s'adresser à la vie scolaire ou au secrétariat de l'établissement.
 
-Si aucune des réponses proposées ne vous convient alors vous pouvez rédiger votre propre question en accédant à :
+|→ Si aucune des réponses proposées ne vous convient alors vous pouvez rédiger votre propre question en accédant à :
 
 1. [Messageries](Messageries)
 2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
