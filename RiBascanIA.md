@@ -152,7 +152,7 @@ Si aucune des réponses proposées ne vous convient alors vous pouvez rédiger v
 2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
 3. [Retour au message initial]()
  
-##R1Q1
+## R1Q1
 
 **Qu'est-ce qu'un règlement intérieur ?**  
 
@@ -163,7 +163,7 @@ Le règlement intérieur est un document officiel qui définit les droits, les d
 3. [Messageries](Messageries)
 4. [Retour au message initial]()
 
-##R2Q2
+## R2Q2
 
 **Pourquoi le règlement intérieur est-il important ?**  
 
@@ -174,7 +174,7 @@ Il assure une cohabitation harmonieuse, garantit le respect mutuel et définit l
 3. [Messageries](Messageries)
 4. [Retour au message initial]()
 
-##R3Q3
+## R3Q3
 
 **Qui a rédigé le règlement intérieur du lycée ?**  
 
@@ -185,7 +185,7 @@ Le règlement intérieur est élaboré par l'administration du lycée en concert
 3. [Messageries](Messageries)
 4. [Retour au message initial]()
 
-##R4Q4
+## R4Q4
 
 **Quand a-t-il été mis à jour pour la dernière fois ?**  
 
@@ -196,7 +196,7 @@ La date de la dernière mise à jour est indiquée en en-tête du document. Pour
 3. [Messageries](Messageries)
 4. [Retour au message initial]()
 
-##R5Q5
+## R5Q5
 
 **Comment signaler une question sur le règlement ?**  
 
