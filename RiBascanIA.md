@@ -258,13 +258,7 @@ Je vous propose de choisir l'une des thématiques de recherche suivantes ⤵
 16. [Sécurité et environnement](SécuritéEtEnvironnement)
 17. [En cas de problème](EnCasDeProblème)
 18. [Questions administratives](QuestionsAdministratives)
-
-Ou
-
-19. [Avertissement](Avertissement)
-20. [Autres choix](AutresChoix)
-21. [Ne rien faire](NeRienFaire)
-22. [Retour au message initial]()
+19. [Autres choix](AutresChoix)
 
 ## AutresChoix
 - Autres
@@ -277,6 +271,7 @@ Allez c'est reparti !
 Que voulez-vous consulter ?
 
 1. [Les thématiques de recherche](ChoixDesThématiquesDeRecherche)
+2. [Avertissement](Avertissement)
 3. [Ne rien faire](NeRienFaire)
 4. [Retour au message initial]()
 
