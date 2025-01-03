@@ -122,14 +122,7 @@ En ce qui concerne les **Questions générales**, je peux répondre aux question
 3. [Qui a rédigé le règlement intérieur du lycée ?](R3Q3)
 4. [Quand a-t-il été mis à jour pour la dernière fois ?](R4Q4)
 5. [Comment signaler une question sur le règlement ?](R5Q5)
-
-Vous pouvez accéder à chacune des réponses en choisissant **une seule question** ou en consultant simultanément[toutes les réponses](RéponsesQuestionsGénérales).
-
-Si aucune des questions proposées ne vous convient alors vous pouvez rédiger votre propre question ou accéder à :
-
-6. [Messageries](Messageries)
-7. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
-8. [Retour au message initial]()
+6. [Toutes les réponses aux questions](RéponsesQuestionsGénérales)
 
 ## RéponsesQuestionsGénérales
 
