@@ -156,7 +156,7 @@ Pour toute question ou remarque concernant le règlement intérieur, il est reco
 
 **Qu'est-ce qu'un règlement intérieur ?**  
 
-Le règlement intérieur est un document officiel qui définit les droits, les devoirs et les règles de vie collective au sein de l'établissement scolaire.
+[Le règlement intérieur] (https://docsify-this.net/?basePath=https://raw.githubusercontent.com/DevBascan/AffichageLegal/main&homepage=ri.md&sidebar=true&maxLevel=6&link-color=0374b5&name=R%C3%A8glement%20int%C3%A9rieur%3Cbr%3ELyc%C3%A9e%20Louis-Bascan%3Cbr%3ERambouillet%20(78)&search=true&page-title=Affichage%20l%C3%A9gal&link-color-dark-mode=0374b5#/) est un document officiel qui définit les droits, les devoirs et les règles de vie collective au sein de l'établissement scolaire.
 
 1. [Retour au thème : Questions générales](QuestionsGénérales)
 2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
@@ -178,7 +178,7 @@ Il assure une cohabitation harmonieuse, garantit le respect mutuel et définit l
 
 **Qui a rédigé le règlement intérieur du lycée ?**  
 
-Le règlement intérieur est élaboré par l'administration du lycée en concertation avec les représentants des enseignants, des élèves et des parents, puis adopté par le conseil d'administration de l'établissement.
+[Le règlement intérieur] (https://docsify-this.net/?basePath=https://raw.githubusercontent.com/DevBascan/AffichageLegal/main&homepage=ri.md&sidebar=true&maxLevel=6&link-color=0374b5&name=R%C3%A8glement%20int%C3%A9rieur%3Cbr%3ELyc%C3%A9e%20Louis-Bascan%3Cbr%3ERambouillet%20(78)&search=true&page-title=Affichage%20l%C3%A9gal&link-color-dark-mode=0374b5#/) est élaboré par l'administration du lycée en concertation avec les représentants des enseignants, des élèves et des parents, puis adopté par le conseil d'administration de l'établissement.
 
 1. [Retour au thème : Questions générales](QuestionsGénérales)
 2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
@@ -189,7 +189,7 @@ Le règlement intérieur est élaboré par l'administration du lycée en concert
 
 **Quand a-t-il été mis à jour pour la dernière fois ?**  
 
-La date de la dernière mise à jour est indiquée en en-tête du document. Pour le connaître, il est conseillé de consulter le règlement intérieur disponible sur le site officiel du lycée ou de contacter l'administration.
+La date de la dernière mise à jour est indiquée en en-tête du document. Pour le connaître, il est conseillé de [consulter le règlement intérieur] (https://docsify-this.net/?basePath=https://raw.githubusercontent.com/DevBascan/AffichageLegal/main&homepage=ri.md&sidebar=true&maxLevel=6&link-color=0374b5&name=R%C3%A8glement%20int%C3%A9rieur%3Cbr%3ELyc%C3%A9e%20Louis-Bascan%3Cbr%3ERambouillet%20(78)&search=true&page-title=Affichage%20l%C3%A9gal&link-color-dark-mode=0374b5#/) disponible sur le site officiel du lycée ou de contacter l'administration.
 
 1. [Retour au thème : Questions générales](QuestionsGénérales)
 2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
@@ -200,7 +200,7 @@ La date de la dernière mise à jour est indiquée en en-tête du document. Pour
 
 **Comment signaler une question sur le règlement ?**  
 
-Pour toute question ou remarque concernant le règlement intérieur, il est recommandé de s'adresser à la vie scolaire ou au secrétariat de l'établissement.
+Pour toute question ou remarque concernant [le règlement intérieur] (https://docsify-this.net/?basePath=https://raw.githubusercontent.com/DevBascan/AffichageLegal/main&homepage=ri.md&sidebar=true&maxLevel=6&link-color=0374b5&name=R%C3%A8glement%20int%C3%A9rieur%3Cbr%3ELyc%C3%A9e%20Louis-Bascan%3Cbr%3ERambouillet%20(78)&search=true&page-title=Affichage%20l%C3%A9gal&link-color-dark-mode=0374b5#/), il est recommandé de s'adresser à la vie scolaire ou au secrétariat de l'établissement.
 
 1. [Retour au thème : Questions générales](QuestionsGénérales)
 2. [Choix des thématiques de recherche](ChoixDesThématiquesDeRecherche)
