@@ -72,7 +72,8 @@ N'hésitez pas à revenir.
 :leaves: :cloud: :snail:
 
 1. [Redémarrer]()
-2. [Lire le règlement intérieur](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/DevBascan/AffichageLegal/main&homepage=ri.md&sidebar=true&maxLevel=6&link-color=0374b5&name=R%C3%A8glement%20int%C3%A9rieur%3Cbr%3ELyc%C3%A9e%20Louis-Bascan%3Cbr%3ERambouillet%20(78)&search=true&page-title=Affichage%20l%C3%A9gal&link-color-dark-mode=0374b5#/)
+
+[Lire le règlement intérieur](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/DevBascan/AffichageLegal/main&homepage=ri.md&sidebar=true&maxLevel=6&link-color=0374b5&name=R%C3%A8glement%20int%C3%A9rieur%3Cbr%3ELyc%C3%A9e%20Louis-Bascan%3Cbr%3ERambouillet%20(78)&search=true&page-title=Affichage%20l%C3%A9gal&link-color-dark-mode=0374b5#/)
 
 ## LouisÉcureuil
 - Louis l'écureuil
